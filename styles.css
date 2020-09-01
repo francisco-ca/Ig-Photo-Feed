@@ -1,0 +1,64 @@
+body
+   {margin:0;
+   background: lightgray;
+   }
+   .title{background: white}
+   h1{
+   margin:0 auto;
+   background:white;
+   padding: 30px 0px;
+   width:800px;}
+
+
+.recp{background: white;}
+       
+
+.todo {margin:0 auto;
+     background:lightgrey;
+       width: 800px;
+       align-content: center;
+       padding: 10px 0px 30px 0px;
+
+}
+
+.titdat {padding: 0px 0px 0px 0px;
+border-bottom-color:lightgrey;
+}
+
+
+#Title1 p
+
+{float:left;
+margin-block-start: 0px;
+margin-block-end: 0px;
+padding: 20px 30px 20px 30px;
+font-size: 25px;}
+
+p {
+float:left;
+margin-block-start: 0px;
+font-size: 20px;
+padding: 0px 30px 0px 30px;
+
+}
+div[id*='date']
+{
+    font-size:25px;
+    float:right;
+    color:lightgrey;
+    padding: 20px 30px 20px 30px;
+    
+}
+
+
+img{margin:0 auto;
+    display: flex;
+    position:relative;
+    align-content: center;
+    max-width: 100%;
+    border-top:lightgrey 2px;
+    
+}
+
+div[id*='pfoto']{
+    padding: 30px 0px 60px 0px;}
